@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mi-primera-vez-con-github-classroom-JeffersonHidalgo/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/mi-primera-vez-con-github-classroom-JeffersonHidalgo/static/js/main.0e4017be.chunk.js",
+    "main.js.map": "/mi-primera-vez-con-github-classroom-JeffersonHidalgo/static/js/main.0e4017be.chunk.js.map",
+    "runtime-main.js": "/mi-primera-vez-con-github-classroom-JeffersonHidalgo/static/js/runtime-main.6de1033a.js",
+    "runtime-main.js.map": "/mi-primera-vez-con-github-classroom-JeffersonHidalgo/static/js/runtime-main.6de1033a.js.map",
+    "static/js/2.5060e17a.chunk.js": "/mi-primera-vez-con-github-classroom-JeffersonHidalgo/static/js/2.5060e17a.chunk.js",
+    "static/js/2.5060e17a.chunk.js.map": "/mi-primera-vez-con-github-classroom-JeffersonHidalgo/static/js/2.5060e17a.chunk.js.map",
+    "static/js/3.d4c3ed92.chunk.js": "/mi-primera-vez-con-github-classroom-JeffersonHidalgo/static/js/3.d4c3ed92.chunk.js",
+    "static/js/3.d4c3ed92.chunk.js.map": "/mi-primera-vez-con-github-classroom-JeffersonHidalgo/static/js/3.d4c3ed92.chunk.js.map",
+    "index.html": "/mi-primera-vez-con-github-classroom-JeffersonHidalgo/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/mi-primera-vez-con-github-classroom-JeffersonHidalgo/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.5060e17a.chunk.js.LICENSE.txt": "/mi-primera-vez-con-github-classroom-JeffersonHidalgo/static/js/2.5060e17a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mi-primera-vez-con-github-classroom-JeffersonHidalgo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6de1033a.js",
+    "static/js/2.5060e17a.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.0e4017be.chunk.js"
+  ]
+}
